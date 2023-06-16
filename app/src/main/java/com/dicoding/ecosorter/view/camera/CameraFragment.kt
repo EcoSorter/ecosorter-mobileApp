@@ -6,7 +6,6 @@ import android.net.Uri
 import android.os.Build
 import android.os.Bundle
 import android.util.Base64
-import android.util.Log
 import android.view.*
 import androidx.fragment.app.Fragment
 import android.widget.Toast
@@ -17,20 +16,13 @@ import androidx.camera.core.ImageCapture
 import androidx.camera.core.ImageCaptureException
 import androidx.camera.core.Preview
 import androidx.camera.lifecycle.ProcessCameraProvider
-import androidx.core.content.ContentProviderCompat.requireContext
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.ViewModelProvider
 import com.dicoding.ecosorter.databinding.FragmentCameraBinding
 import com.dicoding.ecosorter.utils.createFile
 import com.dicoding.ecosorter.view.popUp.ImagePreviewDialogFragment
 import com.dicoding.ecosorter.view.popUp.ImageStatusActivity
-import com.dicoding.ecosorter.view.popUp.postRequest
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.coroutineScope
-import kotlinx.coroutines.launch
-import org.json.JSONObject
+
 
 class CameraFragment : Fragment() {
     private var _binding: FragmentCameraBinding? = null
@@ -150,6 +142,7 @@ class CameraFragment : Fragment() {
                 }
             }
         )
+
     }
 
     private fun startCamera() {
