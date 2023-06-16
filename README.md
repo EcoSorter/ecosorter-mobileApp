@@ -1,5 +1,10 @@
 # EcoSorter Android App
 
+<img src="[https://raw.githubusercontent.com/Pangeranmw/Dantion/master/assets_readme/app-launcher.png](https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png)" />
+
+## Download Our App
+[EcoSorter App](https://storage.googleapis.com/ecosorter-model/ecoSorter.apk)
+
 ## About Our App
 Our project aims to tackle the growing Indonesia problem of waste management and disposal by developing a mobile application that classifies waste items and educates users on proper waste management practices. The application leverages image processing and machine learning algorithms to identify and categorize waste materials, followed by providing relevant articles and guidelines to help users dispose of the waste responsibly. By addressing the lack of knowledge and awareness surrounding waste management, we aim to encourage responsible waste disposal behavior, contributing to a cleaner environment.
 
