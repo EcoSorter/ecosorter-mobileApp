@@ -2,6 +2,19 @@
 
 <img src="https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png"/>
 
+# Team Profile
+
+### Team ID : C23-PR536
+
+### Our Team
+
+* (ML) M151DSX1837 – Aloysius Darin Ario – Universitas Brawijaya 
+* (ML) M312DKX4604 – M.Farhan Zachary – Universitas Pertahanan Republik Indonesia 
+* (ML) M013DSY2108 – Wintang Dayinta Wiyanto – Institut Pertanian Bogor 
+* (CC) C181DSX0964 – Muhammad Haddad – Universitas Indonesia 
+* (CC) C181DSX1965– Andhika Rifki Alfariz – Universitas Indonesia
+* (MD) A181DSX1228 – Bimabara Sukma Muryanto – Universitas  Indonesia -
+
 ## Download Our App
 [EcoSorter App](https://storage.googleapis.com/ecosorter-model/ecoSorter.apk)
 
