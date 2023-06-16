@@ -1,6 +1,6 @@
 # EcoSorter Android App
 
-<img src="[https://raw.githubusercontent.com/Pangeranmw/Dantion/master/assets_readme/app-launcher.png](https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png)" />
+<img src="https://cdn.discordapp.com/attachments/1094915099732488297/1119244757605023777/image.png"/>
 
 ## Download Our App
 [EcoSorter App](https://storage.googleapis.com/ecosorter-model/ecoSorter.apk)
