@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/CameraScreen"
+        android:icon="@drawable/ic_baseline_camera_alt_24"
+        android:iconTint="@color/white"
+        android:title="@string/Camera" />
+
+    <item
+        android:id="@+id/ArticleScreen"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title="@string/Article" />
+
+</menu>

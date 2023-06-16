@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EcoSorter</string>
+
+
+    <string name="Camera">Camera</string>
+    <string name="Article">Article</string>
+
+    <string name="Camerafragment">Camera Fragment</string>
+    <string name="Articlefragment">Article Fragment</string>
+
+    <string name="shutterCamera">Shutter Camera</string>
+    <string name="switchCamera">Switch Camera</string>
+    <string name="gallery">Gallery</string>
+
+    <string name="splashImage">Splash Image</string>
+
+    <string name="scan">Scan</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ArticleTitle">Article Title</string>
+    <string name="ArticleDesc">Article Description</string>
+    <string name="articleContent">Article Content</string>
+    <string name="ok">OK</string>
+
+    <string name="Biodegradable">Biodegradable</string>
+    <string name="bioContent">It’s a biodegradable waste!
+You can dispose of it by composting, using a compost shredder, or collecting it. If you have access to a composting area, you can dispose of biodegradable waste such as food scraps, leaves, or grass into a compost bin, but make sure to follow proper composting guidelines. If you don\'t have a composter, you can use a compost shredder that will break down biodegradable waste into small particles that will decompose quickly. If your area has a separate organic waste collection, you can dispose of biodegradable waste in designated bins to be taken to appropriate processing facilities. Besides that u should implement 3R, Reduce, Reuse, and Recycle, to make our earth a better place to live.
+</string>
+
+    <string name="NonBiodegradable">Non-biodegradable</string>
+    <string name="NonBioContent">It’s a non-biodegradable waste!
+You can dispose of it by separating waste, recycling, and collecting non-recyclable waste. First, separate non-biodegradable waste such as plastic, paper, metal, or glass from other waste. And then, place recyclable non-biodegradable waste into the appropriate recycling bins, but make sure to follow the recycling system in your area and clean or separate non-recyclable materials. Last, non-recyclable non-biodegradable waste should be disposed of in designated non-recyclable waste bins, and make sure to follow local regulations and dispose of it properly. Besides that u should implement 3R, Reduce, Reuse, and Recycle, to make our earth a better place to live.
+</string>
+    <string name="detailImage">Detail Image</string>
+
+</resources>
